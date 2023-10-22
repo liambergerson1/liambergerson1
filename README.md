@@ -1,4 +1,4 @@
-<h1>Hi, I'm Liam! <br/><a href="https://www.linkedin.com/in/liam-bergerson-123a85216/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Liam! <br/><a href="https://www.linkedin.com/in/liam-bergerson-123a85216/">Aspiring Cybersecurity Professional</a></h1>
 
 <h2>Certifications:</h2>
 
