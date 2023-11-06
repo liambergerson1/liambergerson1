@@ -11,7 +11,7 @@
 
 <h2>Python Scripts:</h2>
 
-- [Create New Folder by Year](https://github.com/liambergerson1/CreateNewYearScript)
+- [Create New Folder by Year](https://github.com/liambergerson1/PythonYearFolderScript)
 
 
 <!--
