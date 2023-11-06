@@ -9,6 +9,10 @@
 
 - [Active Directory Home Lab](https://github.com/liambergerson1/ActiveDirectoryLab)
 
+<h2>Python Scripts:</h2>
+
+- [Create New Folder by Year](https://github.com/liambergerson1/CreateNewYearScript)
+
 
 <!--
 Here are some ideas to get you started:
