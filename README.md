@@ -3,7 +3,7 @@
 <h2>Certifications:</h2>
 
 - [CompTIA A+ ce Certification](https://www.credly.com/badges/2a13f2c8-6fff-49a6-8411-4964ea9dec7d/linked_in_profile)
-- [Google Cybersecurity Professional](https://www.credly.com/badges/b92d00aa-5597-41d4-8c68-8aefedcab180/public_url)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/b92d00aa-5597-41d4-8c68-8aefedcab180/public_url)
 
 
 <h2>Cybersecurity Projects:</h2>
