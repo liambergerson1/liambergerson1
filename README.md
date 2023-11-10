@@ -9,6 +9,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/liambergerson1/ActiveDirectoryLab)
+- [SIEM: Querying Logs with Splunk](https://github.com/liambergerson1/SplunkLab)
 
 <h2>Python Scripts:</h2>
 
