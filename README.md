@@ -11,6 +11,11 @@
 - [Active Directory Home Lab](https://github.com/liambergerson1/ActiveDirectoryLab)
 - [SIEM: Querying Logs with Splunk](https://github.com/liambergerson1/SplunkLab)
 
+<h2>College Cybersecurity, Cloud Computing, and Virtualization Papers:</h2>
+
+- [Cybersecurity Papers](https://github.com/liambergerson1/CollegeCybersecurityPapers)
+- [Cloud Computing and Virtualization Papers](https://github.com/liambergerson1/CollegeCloudPapers)
+
 <h2>Python Scripts:</h2>
 
 - [Create New Folder by Year](https://github.com/liambergerson1/PythonYearFolderScript)
